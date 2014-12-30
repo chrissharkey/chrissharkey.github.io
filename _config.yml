@@ -1,25 +1,57 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# Site wide configuration
 
-# Permalinks
-permalink:        pretty
-
-# Setup
 title:            Chris Sharkey's Website
-tagline:          'Blog'
-description:      ''
-url:              http://www.chrissharkey.com
-baseurl:          /
+locale:           en_US
 
-author:
-  name:           'Chris Sharkey'
-  url:            https://twitter.com/chrissharkey
+# @Note: this is silly and we will have to keep changing it for dev mode
+url:              http://www.chrissharkey.com #http://localhost:4000 #
 
-paginate:         5
+# Jekyll configuration
 
-# Custom vars
-version:          2.1.0
+permalink:   /:categories/:title.html
+#permalink: /blog/:categories/:year/:month/:day/:title.html
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-github:
-  repo:           https://github.com/chrissharkey/chrissharkey.github.io
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Chris Sharkey
+  avatar: 
+  bio: "CTO of Autopilot and previously co-founder of Stayz. I write about startups, marketing automation and programming."
+  email: "chris.sharkey@gmail.com"
+  disqus-shortname: 
+  twitter: "chrissharkey"
+  facebook:
+  google:
+    plus:
+    analytics:
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: "chrissharkey"
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
