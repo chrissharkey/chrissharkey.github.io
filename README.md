@@ -1,4 +1,4 @@
-# Chris Sharkey's Website & Blog
+# Tech Founder Blog
 
 To test locally: jekyll serve
 

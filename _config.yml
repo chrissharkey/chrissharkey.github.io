@@ -1,57 +1,18 @@
-# Site wide configuration
+# Site settings
+title: TFB
+email: chris@autopilothq.com
+description: > # A collection of posts about founding
+ a tech business from the perspective of technical
+  co-founders.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://techfounderblog.com" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-coffee']
+  Contact : ['Contact', '/contact', 'fa-plane']
+single_footer: '<p>&copy; Tech Founder Blog 2015 <a href="/">latest posts</a></p>'
 
-title:            Chris Sharkey's Website
-locale:           en_US
-
-# @Note: this is silly and we will have to keep changing it for dev mode
-url:              http://www.chrissharkey.com #http://localhost:4000 #
-
-# Jekyll configuration
-
-permalink:   /:categories/:title.html
-#permalink: /blog/:categories/:year/:month/:day/:title.html
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-
-# Site owner
-owner:
-  name: Chris Sharkey
-  avatar: 
-  bio: "CTO of Autopilot and previously co-founder of Stayz. I write about startups, marketing automation and programming."
-  email: "chris.sharkey@gmail.com"
-  disqus-shortname: 
-  twitter: "chrissharkey"
-  facebook:
-  google:
-    plus:
-    analytics:
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: "chrissharkey"
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Build settings
+markdown: kramdown

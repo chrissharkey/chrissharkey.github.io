@@ -1,13 +1,13 @@
 {
-  "name": "autopilotdev.github.io",
-  "author": "Autopilot Dev <dev@autopilothq.com>",
-  "homepage": "http://developers.autopilothq.com",
+  "name": "techfounderblog.github.io",
+  "author": "Chris Sharkey <chris@autopilothq.com>",
+  "homepage": "http://techfounderblog.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/autopilotdev/autopilotdev.github.io.git"
+    "url": "git://github.com/chrissharkey/techfounderblog.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/autopilotdev/autopilotdev.github.io/issues"
+    "url": "https://github.com/chrissharkey/techfounderblog.github.io/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
