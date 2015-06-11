@@ -2,8 +2,8 @@
 title: TFB
 email: chris@autopilothq.com
 description: > # A collection of posts about founding
- a tech business from the perspective of technical
-  co-founders.
+ a tech business from the perspective a technical
+  founder.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://techfounderblog.com" # the base hostname & protocol for your site
 enable_retina: false

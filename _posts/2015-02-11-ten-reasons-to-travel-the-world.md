@@ -4,7 +4,7 @@ title:  "10 Reasons to travel the world"
 date: 2015-02-11 08:50:28
 categories: travel storytime
 author_name : Chris Sharkey
-author_url : /author/chrissharkey
+author_url : /author/chris
 author_avatar: chrissharkey
 show_avatar : true
 read_time : 34
