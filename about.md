@@ -2,13 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature_image: feature-book
+feature_image: feature-laptop
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Thanks for visiting Tech Founder Blog. I'm Chris Sharkey, so far the only author on the site.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have been the technical co-founder of three web businesses. My first business was [Stayz](http://www.stayz.com.au), a holiday accommodation website which I co-founded in 2001 and sold in 2006 for $12.7m. Stayz later went on to sell for $220m to [HomeAway](http://www.homeaway.com). The second business was [Driven By Limo](http://www.drivenbylimo.com.au), a hire car company which does millions in revenue in Australia, I no longer have a day to day role at DBL, but the business continues to operate profitably. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Currently my entire life is [Autopilot](https://autopilothq.com), which was founded in 2011. We have raised over $15m in venture funding and we are growing rapidly as a leader in the next generation of Marketing Automation.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius voluptatum tenetur explicabo, vel, praesentium corrupti repudiandae veniam totam reprehenderit, temporibus delectus possimus provident sint rem ex maiores ratione sunt deserunt.
+Having been in the position of technical co-founder for 14 years, with several successful companies whose software is used by hundreds of thousands of people, 
+I now feel ready to start writing about my industry and experience. 
+
+I have a degree in Software Engineering Management from [UTS](http://www.uts.edu.au), but all of my programming knowledge comes from real world experience. I plan on using [Tech Founder Blog](http://techfounderblog.com) to relate past experiences, current issues I face at 
+Autopilot, and share content which I think will help others who are in a similar position, or would like to be.
