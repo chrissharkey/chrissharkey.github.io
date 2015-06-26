@@ -5,7 +5,7 @@ permalink: /about/
 feature_image: feature-laptop
 ---
 
-Thanks for visiting Tech Founder Blog. I'm Chris Sharkey, so far the only author on the site.
+Thanks for visiting Tech Founder Blog. I'm Chris Sharkey, the author of site.
 
 I have been the technical co-founder of three web businesses. My first business was [Stayz](http://www.stayz.com.au), a holiday accommodation website which I co-founded in 2001 and sold in 2006 for $12.7m. Stayz later went on to sell for $220m to [HomeAway](http://www.homeaway.com). The second business was [Driven By Limo](http://www.drivenbylimo.com.au), a hire car company which does millions in revenue in Australia, I no longer have a day to day role at DBL, but the business continues to operate profitably. 
 
