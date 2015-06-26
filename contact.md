@@ -1,8 +1,8 @@
 ---
 layout: contact
-title: contact
+title: Contact
 permalink: /contact/
-feature_image: feature-plantpot
+feature_image: feature-water
 form_action:
-form_heading: Contact Author
+form_heading: Contact
 ---
