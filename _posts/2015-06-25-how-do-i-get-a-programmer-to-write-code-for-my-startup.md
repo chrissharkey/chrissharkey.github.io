@@ -170,5 +170,5 @@ This post has basically said that to get a programmer to write code for your sta
 
 If you have considered these things and are very prepared, a programmer is far more likely to want to partner with you because they will know that you're willing and able to do your share of the workload. If you're paying a programmer to do the work, they'll be able to charge you less knowing that the project is unlikely to blow majorly out of scope since you have done so much preparation.
 
-Your project will be completely more quickly, cheaply and you'll end up with a more finely honed minimum viable product which you can build into a sustainable and profitable business.
+Your project will be completely quickly, cheaply and you'll end up with a more finely honed minimum viable product which you can build into a sustainable and profitable business.
 
