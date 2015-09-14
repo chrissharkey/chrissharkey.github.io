@@ -97,7 +97,7 @@ As you plan out each of the features of your project, you will come up with more
 
 The crucial thing here that you have to keep in mind is: there's no point having all these features if no one uses your app long enough to need them.
 
-- If your app takes longer to get our there because of the additional features: no one will use the new features.
+- If your app takes longer to get out there because of the additional features: no one will use the new features.
 - If your app fails on its basic use case because you didn't get the core features right: no one will use the new featues.
 - If users are confused about what your app is for because of all the additional features: no one will use the new features.
 
